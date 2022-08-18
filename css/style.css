@@ -1,0 +1,16 @@
+html{font-family: 'Libre Baskerville';}
+
+header{ min-height: 100vh;
+     background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../images/pexels-ivan-samkov-5676744.jpg);
+    background-position: center;
+    background-size: cover;
+   
+}
+.navbar{box-shadow: 0 2px 6px;}
+
+.nav-link{padding-right: 15px;
+    padding-left: 15px;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: white;
+}
